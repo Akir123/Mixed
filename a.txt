@@ -1,8 +1,6 @@
 Hi
 Hello
 Bye
-<<<<<<< HEAD
 Noya
-=======
 Hoya
->>>>>>> 4265e54951bce1e5ed66fc8601f76e6491fdd355
+
